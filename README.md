@@ -1,7 +1,10 @@
 ## Hi there 👋
-[![Warabimochi0913's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warabimochi0913)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Warabimochi0913)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Warabimochi0913&show_icons=true&theme=radical" alt="Warabimochi0913's GitHub stats" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Warabimochi0913&theme=flat" alt="trophy" />
 <!--
 **Warabimochi0913/Warabimochi0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
